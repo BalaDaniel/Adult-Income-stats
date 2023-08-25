@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bala
 - 👀 I’m interested in Data Analysis and Data science
-- 🌱 I’m currently learning Dta Analysis 
+- 🌱 I’m currently learning Data Analysis 
 - 💞️ I’m looking to collaborate on Data Analysts and Data Scientists
 - 📫 How to reach me ...
 

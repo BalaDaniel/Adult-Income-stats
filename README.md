@@ -1,5 +1,5 @@
 This project is about the insights of adults income.
-Between male and female who are earning more.
+who are earning more between male and female .
 Which job designation hold by most of the people.
 
 <!---
